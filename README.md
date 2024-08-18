@@ -1,6 +1,6 @@
 # Gemini-Chat-Samples
 
--  This project about using <b>[ContextualFlowRow]</b> is a specialized version of the [FlowRow] layout. It is designed to enable users to make contextual decisions during the construction of [FlowRow] layouts.
+-  This project about using <b>[ContextualFlowRow]</b> is a specialized version of the <b>[FlowRow]</b> layout. It is designed to enable users to make contextual decisions during the construction of <b>[FlowRow]</b> layouts.
 
 </br>
 
